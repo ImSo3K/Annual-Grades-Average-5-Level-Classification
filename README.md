@@ -1,1 +1,4 @@
-# Annual-Grades-Average-5-Level-Classification
+# Introduction
+Before I even started with this kernel I saw that there this is an actual study (source can be found here https://archive.ics.uci.edu/ml/datasets/Student+Performance) and I have read the paper, the researcher had some ideas of what to actually learn from it, one of those ideas was the 5 level classification model, which **I took and added a little twist: instead of classifying the `G3` grade, I actually took the annual average and classified it according to that paper.**
+
+Since I didn't work that much with `Seaborn` until now, I wanted to see how much information I could extract from the data with the different types of plots, so there are a lot of those here.
